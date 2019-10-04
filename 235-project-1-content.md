@@ -30,6 +30,7 @@ Right-Button: Places traps at the mouse's position
 At the beginning of the game, there will a brief tutorial in order to get the player aquitted with the controls. The initial waves will start off slow allowing the players to further get use to the feel the game. Eventually the enemies will increase creating a harder progression and challenge.
 
 ## 7. Screenshots
-
+![alt text](https://github.com/MBHayes00/IGME-235/blob/master/layout.jpg "Layout")
+![alt text](https://github.com/MBHayes00/IGME-235/blob/master/controls.jpg "Controls")
 ## 8. Developer
 Hi, my name is Mason Hayes and I'm a second year Game Design and Development. My skills include C#, HTML, CSS, Unity, UI development and Photoshop.
